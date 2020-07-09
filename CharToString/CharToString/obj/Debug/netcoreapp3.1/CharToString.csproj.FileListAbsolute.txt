@@ -1,0 +1,13 @@
+C:\Users\yashi\source\repos\CharToString\CharToString\bin\Debug\netcoreapp3.1\CharToString.exe
+C:\Users\yashi\source\repos\CharToString\CharToString\bin\Debug\netcoreapp3.1\CharToString.deps.json
+C:\Users\yashi\source\repos\CharToString\CharToString\bin\Debug\netcoreapp3.1\CharToString.runtimeconfig.json
+C:\Users\yashi\source\repos\CharToString\CharToString\bin\Debug\netcoreapp3.1\CharToString.runtimeconfig.dev.json
+C:\Users\yashi\source\repos\CharToString\CharToString\bin\Debug\netcoreapp3.1\CharToString.dll
+C:\Users\yashi\source\repos\CharToString\CharToString\bin\Debug\netcoreapp3.1\CharToString.pdb
+C:\Users\yashi\source\repos\CharToString\CharToString\obj\Debug\netcoreapp3.1\CharToString.csproj.CoreCompileInputs.cache
+C:\Users\yashi\source\repos\CharToString\CharToString\obj\Debug\netcoreapp3.1\CharToString.AssemblyInfoInputs.cache
+C:\Users\yashi\source\repos\CharToString\CharToString\obj\Debug\netcoreapp3.1\CharToString.AssemblyInfo.cs
+C:\Users\yashi\source\repos\CharToString\CharToString\obj\Debug\netcoreapp3.1\CharToString.dll
+C:\Users\yashi\source\repos\CharToString\CharToString\obj\Debug\netcoreapp3.1\CharToString.pdb
+C:\Users\yashi\source\repos\CharToString\CharToString\obj\Debug\netcoreapp3.1\CharToString.genruntimeconfig.cache
+C:\Users\yashi\source\repos\CharToString\CharToString\obj\Debug\netcoreapp3.1\CharToString.csprojAssemblyReference.cache
