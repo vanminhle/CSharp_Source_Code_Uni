@@ -1,0 +1,13 @@
+C:\Users\yashi\source\repos\Sign Of Integer Numbers\Sign Of Integer Numbers\obj\Debug\netcoreapp3.1\Sign Of Integer Numbers.csprojAssemblyReference.cache
+C:\Users\yashi\source\repos\Sign Of Integer Numbers\Sign Of Integer Numbers\obj\Debug\netcoreapp3.1\Sign Of Integer Numbers.csproj.CoreCompileInputs.cache
+C:\Users\yashi\source\repos\Sign Of Integer Numbers\Sign Of Integer Numbers\obj\Debug\netcoreapp3.1\Sign Of Integer Numbers.AssemblyInfoInputs.cache
+C:\Users\yashi\source\repos\Sign Of Integer Numbers\Sign Of Integer Numbers\obj\Debug\netcoreapp3.1\Sign Of Integer Numbers.AssemblyInfo.cs
+C:\Users\yashi\source\repos\Sign Of Integer Numbers\Sign Of Integer Numbers\bin\Debug\netcoreapp3.1\Sign Of Integer Numbers.exe
+C:\Users\yashi\source\repos\Sign Of Integer Numbers\Sign Of Integer Numbers\bin\Debug\netcoreapp3.1\Sign Of Integer Numbers.deps.json
+C:\Users\yashi\source\repos\Sign Of Integer Numbers\Sign Of Integer Numbers\bin\Debug\netcoreapp3.1\Sign Of Integer Numbers.runtimeconfig.json
+C:\Users\yashi\source\repos\Sign Of Integer Numbers\Sign Of Integer Numbers\bin\Debug\netcoreapp3.1\Sign Of Integer Numbers.runtimeconfig.dev.json
+C:\Users\yashi\source\repos\Sign Of Integer Numbers\Sign Of Integer Numbers\bin\Debug\netcoreapp3.1\Sign Of Integer Numbers.dll
+C:\Users\yashi\source\repos\Sign Of Integer Numbers\Sign Of Integer Numbers\bin\Debug\netcoreapp3.1\Sign Of Integer Numbers.pdb
+C:\Users\yashi\source\repos\Sign Of Integer Numbers\Sign Of Integer Numbers\obj\Debug\netcoreapp3.1\Sign Of Integer Numbers.dll
+C:\Users\yashi\source\repos\Sign Of Integer Numbers\Sign Of Integer Numbers\obj\Debug\netcoreapp3.1\Sign Of Integer Numbers.pdb
+C:\Users\yashi\source\repos\Sign Of Integer Numbers\Sign Of Integer Numbers\obj\Debug\netcoreapp3.1\Sign Of Integer Numbers.genruntimeconfig.cache
