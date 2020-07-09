@@ -1,0 +1,13 @@
+C:\Users\yashi\source\repos\RepearString\RepearString\bin\Debug\netcoreapp3.1\RepearString.exe
+C:\Users\yashi\source\repos\RepearString\RepearString\bin\Debug\netcoreapp3.1\RepearString.deps.json
+C:\Users\yashi\source\repos\RepearString\RepearString\bin\Debug\netcoreapp3.1\RepearString.runtimeconfig.json
+C:\Users\yashi\source\repos\RepearString\RepearString\bin\Debug\netcoreapp3.1\RepearString.runtimeconfig.dev.json
+C:\Users\yashi\source\repos\RepearString\RepearString\bin\Debug\netcoreapp3.1\RepearString.dll
+C:\Users\yashi\source\repos\RepearString\RepearString\bin\Debug\netcoreapp3.1\RepearString.pdb
+C:\Users\yashi\source\repos\RepearString\RepearString\obj\Debug\netcoreapp3.1\RepearString.csproj.CoreCompileInputs.cache
+C:\Users\yashi\source\repos\RepearString\RepearString\obj\Debug\netcoreapp3.1\RepearString.AssemblyInfoInputs.cache
+C:\Users\yashi\source\repos\RepearString\RepearString\obj\Debug\netcoreapp3.1\RepearString.AssemblyInfo.cs
+C:\Users\yashi\source\repos\RepearString\RepearString\obj\Debug\netcoreapp3.1\RepearString.dll
+C:\Users\yashi\source\repos\RepearString\RepearString\obj\Debug\netcoreapp3.1\RepearString.pdb
+C:\Users\yashi\source\repos\RepearString\RepearString\obj\Debug\netcoreapp3.1\RepearString.genruntimeconfig.cache
+C:\Users\yashi\source\repos\RepearString\RepearString\obj\Debug\netcoreapp3.1\RepearString.csprojAssemblyReference.cache
