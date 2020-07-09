@@ -1,0 +1,13 @@
+C:\Users\yashi\source\repos\ArrayOddOrEven\ArrayOddOrEven\bin\Debug\netcoreapp3.1\ArrayOddOrEven.exe
+C:\Users\yashi\source\repos\ArrayOddOrEven\ArrayOddOrEven\bin\Debug\netcoreapp3.1\ArrayOddOrEven.deps.json
+C:\Users\yashi\source\repos\ArrayOddOrEven\ArrayOddOrEven\bin\Debug\netcoreapp3.1\ArrayOddOrEven.runtimeconfig.json
+C:\Users\yashi\source\repos\ArrayOddOrEven\ArrayOddOrEven\bin\Debug\netcoreapp3.1\ArrayOddOrEven.runtimeconfig.dev.json
+C:\Users\yashi\source\repos\ArrayOddOrEven\ArrayOddOrEven\bin\Debug\netcoreapp3.1\ArrayOddOrEven.dll
+C:\Users\yashi\source\repos\ArrayOddOrEven\ArrayOddOrEven\bin\Debug\netcoreapp3.1\ArrayOddOrEven.pdb
+C:\Users\yashi\source\repos\ArrayOddOrEven\ArrayOddOrEven\obj\Debug\netcoreapp3.1\ArrayOddOrEven.csprojAssemblyReference.cache
+C:\Users\yashi\source\repos\ArrayOddOrEven\ArrayOddOrEven\obj\Debug\netcoreapp3.1\ArrayOddOrEven.csproj.CoreCompileInputs.cache
+C:\Users\yashi\source\repos\ArrayOddOrEven\ArrayOddOrEven\obj\Debug\netcoreapp3.1\ArrayOddOrEven.AssemblyInfoInputs.cache
+C:\Users\yashi\source\repos\ArrayOddOrEven\ArrayOddOrEven\obj\Debug\netcoreapp3.1\ArrayOddOrEven.AssemblyInfo.cs
+C:\Users\yashi\source\repos\ArrayOddOrEven\ArrayOddOrEven\obj\Debug\netcoreapp3.1\ArrayOddOrEven.dll
+C:\Users\yashi\source\repos\ArrayOddOrEven\ArrayOddOrEven\obj\Debug\netcoreapp3.1\ArrayOddOrEven.pdb
+C:\Users\yashi\source\repos\ArrayOddOrEven\ArrayOddOrEven\obj\Debug\netcoreapp3.1\ArrayOddOrEven.genruntimeconfig.cache
