@@ -1,0 +1,13 @@
+C:\Users\yashi\source\repos\Language\Language\obj\Debug\netcoreapp3.1\Language.csproj.CoreCompileInputs.cache
+C:\Users\yashi\source\repos\Language\Language\obj\Debug\netcoreapp3.1\Language.AssemblyInfoInputs.cache
+C:\Users\yashi\source\repos\Language\Language\obj\Debug\netcoreapp3.1\Language.AssemblyInfo.cs
+C:\Users\yashi\source\repos\Language\Language\obj\Debug\netcoreapp3.1\Language.csprojAssemblyReference.cache
+C:\Users\yashi\source\repos\Language\Language\bin\Debug\netcoreapp3.1\Language.exe
+C:\Users\yashi\source\repos\Language\Language\bin\Debug\netcoreapp3.1\Language.deps.json
+C:\Users\yashi\source\repos\Language\Language\bin\Debug\netcoreapp3.1\Language.runtimeconfig.json
+C:\Users\yashi\source\repos\Language\Language\bin\Debug\netcoreapp3.1\Language.runtimeconfig.dev.json
+C:\Users\yashi\source\repos\Language\Language\bin\Debug\netcoreapp3.1\Language.dll
+C:\Users\yashi\source\repos\Language\Language\bin\Debug\netcoreapp3.1\Language.pdb
+C:\Users\yashi\source\repos\Language\Language\obj\Debug\netcoreapp3.1\Language.dll
+C:\Users\yashi\source\repos\Language\Language\obj\Debug\netcoreapp3.1\Language.pdb
+C:\Users\yashi\source\repos\Language\Language\obj\Debug\netcoreapp3.1\Language.genruntimeconfig.cache
