@@ -1,0 +1,13 @@
+C:\Users\yashi\source\repos\special_Num\special_Num\bin\Debug\netcoreapp3.1\special_Num.exe
+C:\Users\yashi\source\repos\special_Num\special_Num\bin\Debug\netcoreapp3.1\special_Num.deps.json
+C:\Users\yashi\source\repos\special_Num\special_Num\bin\Debug\netcoreapp3.1\special_Num.runtimeconfig.json
+C:\Users\yashi\source\repos\special_Num\special_Num\bin\Debug\netcoreapp3.1\special_Num.runtimeconfig.dev.json
+C:\Users\yashi\source\repos\special_Num\special_Num\bin\Debug\netcoreapp3.1\special_Num.dll
+C:\Users\yashi\source\repos\special_Num\special_Num\bin\Debug\netcoreapp3.1\special_Num.pdb
+C:\Users\yashi\source\repos\special_Num\special_Num\obj\Debug\netcoreapp3.1\special_Num.csprojAssemblyReference.cache
+C:\Users\yashi\source\repos\special_Num\special_Num\obj\Debug\netcoreapp3.1\special_Num.csproj.CoreCompileInputs.cache
+C:\Users\yashi\source\repos\special_Num\special_Num\obj\Debug\netcoreapp3.1\special_Num.AssemblyInfoInputs.cache
+C:\Users\yashi\source\repos\special_Num\special_Num\obj\Debug\netcoreapp3.1\special_Num.AssemblyInfo.cs
+C:\Users\yashi\source\repos\special_Num\special_Num\obj\Debug\netcoreapp3.1\special_Num.dll
+C:\Users\yashi\source\repos\special_Num\special_Num\obj\Debug\netcoreapp3.1\special_Num.pdb
+C:\Users\yashi\source\repos\special_Num\special_Num\obj\Debug\netcoreapp3.1\special_Num.genruntimeconfig.cache

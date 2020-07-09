@@ -1,0 +1,13 @@
+C:\Users\yashi\source\repos\Sum of Odd Numbers\Sum of Odd Numbers\obj\Debug\netcoreapp3.1\Sum of Odd Numbers.csproj.CoreCompileInputs.cache
+C:\Users\yashi\source\repos\Sum of Odd Numbers\Sum of Odd Numbers\obj\Debug\netcoreapp3.1\Sum of Odd Numbers.AssemblyInfoInputs.cache
+C:\Users\yashi\source\repos\Sum of Odd Numbers\Sum of Odd Numbers\obj\Debug\netcoreapp3.1\Sum of Odd Numbers.AssemblyInfo.cs
+C:\Users\yashi\source\repos\Sum of Odd Numbers\Sum of Odd Numbers\bin\Debug\netcoreapp3.1\Sum of Odd Numbers.exe
+C:\Users\yashi\source\repos\Sum of Odd Numbers\Sum of Odd Numbers\bin\Debug\netcoreapp3.1\Sum of Odd Numbers.deps.json
+C:\Users\yashi\source\repos\Sum of Odd Numbers\Sum of Odd Numbers\bin\Debug\netcoreapp3.1\Sum of Odd Numbers.runtimeconfig.json
+C:\Users\yashi\source\repos\Sum of Odd Numbers\Sum of Odd Numbers\bin\Debug\netcoreapp3.1\Sum of Odd Numbers.runtimeconfig.dev.json
+C:\Users\yashi\source\repos\Sum of Odd Numbers\Sum of Odd Numbers\bin\Debug\netcoreapp3.1\Sum of Odd Numbers.dll
+C:\Users\yashi\source\repos\Sum of Odd Numbers\Sum of Odd Numbers\bin\Debug\netcoreapp3.1\Sum of Odd Numbers.pdb
+C:\Users\yashi\source\repos\Sum of Odd Numbers\Sum of Odd Numbers\obj\Debug\netcoreapp3.1\Sum of Odd Numbers.dll
+C:\Users\yashi\source\repos\Sum of Odd Numbers\Sum of Odd Numbers\obj\Debug\netcoreapp3.1\Sum of Odd Numbers.pdb
+C:\Users\yashi\source\repos\Sum of Odd Numbers\Sum of Odd Numbers\obj\Debug\netcoreapp3.1\Sum of Odd Numbers.genruntimeconfig.cache
+C:\Users\yashi\source\repos\Sum of Odd Numbers\Sum of Odd Numbers\obj\Debug\netcoreapp3.1\Sum of Odd Numbers.csprojAssemblyReference.cache

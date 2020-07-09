@@ -1,0 +1,3 @@
+C:\Users\yashi\source\repos\Special Num\Special Num\obj\Debug\netcoreapp3.1\Special Num.csproj.CoreCompileInputs.cache
+C:\Users\yashi\source\repos\Special Num\Special Num\obj\Debug\netcoreapp3.1\Special Num.AssemblyInfoInputs.cache
+C:\Users\yashi\source\repos\Special Num\Special Num\obj\Debug\netcoreapp3.1\Special Num.AssemblyInfo.cs
