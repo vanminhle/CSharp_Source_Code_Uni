@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ASM2_GCD191002_STUDENT_MANAGEMENT/1.0.0": {
+        "runtime": {
+          "ASM2_GCD191002_STUDENT_MANAGEMENT.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ASM2_GCD191002_STUDENT_MANAGEMENT/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
