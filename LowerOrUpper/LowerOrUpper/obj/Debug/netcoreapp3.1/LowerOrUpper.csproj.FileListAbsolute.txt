@@ -1,0 +1,13 @@
+C:\Users\yashi\source\repos\LowerOrUpper\LowerOrUpper\obj\Debug\netcoreapp3.1\LowerOrUpper.csprojAssemblyReference.cache
+C:\Users\yashi\source\repos\LowerOrUpper\LowerOrUpper\obj\Debug\netcoreapp3.1\LowerOrUpper.csproj.CoreCompileInputs.cache
+C:\Users\yashi\source\repos\LowerOrUpper\LowerOrUpper\obj\Debug\netcoreapp3.1\LowerOrUpper.AssemblyInfoInputs.cache
+C:\Users\yashi\source\repos\LowerOrUpper\LowerOrUpper\obj\Debug\netcoreapp3.1\LowerOrUpper.AssemblyInfo.cs
+C:\Users\yashi\source\repos\LowerOrUpper\LowerOrUpper\bin\Debug\netcoreapp3.1\LowerOrUpper.exe
+C:\Users\yashi\source\repos\LowerOrUpper\LowerOrUpper\bin\Debug\netcoreapp3.1\LowerOrUpper.deps.json
+C:\Users\yashi\source\repos\LowerOrUpper\LowerOrUpper\bin\Debug\netcoreapp3.1\LowerOrUpper.runtimeconfig.json
+C:\Users\yashi\source\repos\LowerOrUpper\LowerOrUpper\bin\Debug\netcoreapp3.1\LowerOrUpper.runtimeconfig.dev.json
+C:\Users\yashi\source\repos\LowerOrUpper\LowerOrUpper\bin\Debug\netcoreapp3.1\LowerOrUpper.dll
+C:\Users\yashi\source\repos\LowerOrUpper\LowerOrUpper\bin\Debug\netcoreapp3.1\LowerOrUpper.pdb
+C:\Users\yashi\source\repos\LowerOrUpper\LowerOrUpper\obj\Debug\netcoreapp3.1\LowerOrUpper.dll
+C:\Users\yashi\source\repos\LowerOrUpper\LowerOrUpper\obj\Debug\netcoreapp3.1\LowerOrUpper.pdb
+C:\Users\yashi\source\repos\LowerOrUpper\LowerOrUpper\obj\Debug\netcoreapp3.1\LowerOrUpper.genruntimeconfig.cache
